@@ -3,7 +3,7 @@
 //  GitHub1
 //
 //  Created by david on 27/01/22.
-// gg
+// otra etiqueta
 
 #include <stdio.h>
 
