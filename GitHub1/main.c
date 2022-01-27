@@ -9,6 +9,11 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World!\n");
+    float s;
+    int w=34;
+    char g='e';
+    printf("Digita un numero flotante\n");
+    scanf("%f",&s);
+    printf("Has digitado %.2f te felicitamos %i , %c\n %.3f",s,w,g,s);
     return 0;
 }
